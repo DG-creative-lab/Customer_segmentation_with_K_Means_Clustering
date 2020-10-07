@@ -24,6 +24,5 @@ The idea is to build a stack of reusable and replicable templates for ML based m
 
 ## Repository content
 
-This repository contains two main files:
--	.R file with the code of the model;
--	.Rmd file with markdown article on the code development that will be posted on [Medium](https://medium.com/@dessi.georgieva8)
+This repository contains one main files:
+-	.Rmd file with markdown article on the code development that hopefully 😏 will be posted on [Medium](https://medium.com/@dessi.georgieva8)
