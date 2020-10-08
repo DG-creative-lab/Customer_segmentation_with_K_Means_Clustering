@@ -1,4 +1,8 @@
-# Customer Segmentation with K Means Clustering
+
+![image info](./images/Rep_logo.JPG)
+
+
+
 
 ## Summary Description
 
