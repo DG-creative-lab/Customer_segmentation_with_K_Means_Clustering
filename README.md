@@ -28,5 +28,7 @@ The idea is to build a stack of reusable and replicable templates for ML based m
 
 ## Repository content
 
-This repository contains one main files:
--	.Rmd file with markdown article on the code development that hopefully 😏 will be posted on [Medium](https://medium.com/@dessi.georgieva8)
+This repository contains 3 main files:
+ - [.Rmd](/RFM_customer_segmentation_markdown_article.Rmd) file with the markdown code that hopefully 😏 will be posted on [Medium](https://medium.com/@dessi.georgieva8) and will look like the .md output of the code;
+- [.md](/RFM_customer_segmentation_markdown_article.md) the markdown output of the code;
+- [.html](/RFM_customer_segmentation_markdown_article.html) the html output of the code
